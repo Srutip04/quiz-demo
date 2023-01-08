@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Learn4Needs-Task/static/css/main.da97c447.chunk.css",
-    "main.js": "/Learn4Needs-Task/static/js/main.9f8e9e94.chunk.js",
-    "main.js.map": "/Learn4Needs-Task/static/js/main.9f8e9e94.chunk.js.map",
-    "runtime-main.js": "/Learn4Needs-Task/static/js/runtime-main.25e261c3.js",
-    "runtime-main.js.map": "/Learn4Needs-Task/static/js/runtime-main.25e261c3.js.map",
-    "static/css/2.27ad98c3.chunk.css": "/Learn4Needs-Task/static/css/2.27ad98c3.chunk.css",
-    "static/js/2.566cd183.chunk.js": "/Learn4Needs-Task/static/js/2.566cd183.chunk.js",
-    "static/js/2.566cd183.chunk.js.map": "/Learn4Needs-Task/static/js/2.566cd183.chunk.js.map",
-    "index.html": "/Learn4Needs-Task/index.html",
-    "static/css/2.27ad98c3.chunk.css.map": "/Learn4Needs-Task/static/css/2.27ad98c3.chunk.css.map",
-    "static/css/main.da97c447.chunk.css.map": "/Learn4Needs-Task/static/css/main.da97c447.chunk.css.map",
-    "static/js/2.566cd183.chunk.js.LICENSE.txt": "/Learn4Needs-Task/static/js/2.566cd183.chunk.js.LICENSE.txt"
+    "main.css": "/quiz-demo/static/css/main.da97c447.chunk.css",
+    "main.js": "/quiz-demo/static/js/main.9f8e9e94.chunk.js",
+    "main.js.map": "/quiz-demo/static/js/main.9f8e9e94.chunk.js.map",
+    "runtime-main.js": "/quiz-demo/static/js/runtime-main.c7acd791.js",
+    "runtime-main.js.map": "/quiz-demo/static/js/runtime-main.c7acd791.js.map",
+    "static/css/2.27ad98c3.chunk.css": "/quiz-demo/static/css/2.27ad98c3.chunk.css",
+    "static/js/2.566cd183.chunk.js": "/quiz-demo/static/js/2.566cd183.chunk.js",
+    "static/js/2.566cd183.chunk.js.map": "/quiz-demo/static/js/2.566cd183.chunk.js.map",
+    "index.html": "/quiz-demo/index.html",
+    "static/css/2.27ad98c3.chunk.css.map": "/quiz-demo/static/css/2.27ad98c3.chunk.css.map",
+    "static/css/main.da97c447.chunk.css.map": "/quiz-demo/static/css/main.da97c447.chunk.css.map",
+    "static/js/2.566cd183.chunk.js.LICENSE.txt": "/quiz-demo/static/js/2.566cd183.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.25e261c3.js",
+    "static/js/runtime-main.c7acd791.js",
     "static/css/2.27ad98c3.chunk.css",
     "static/js/2.566cd183.chunk.js",
     "static/css/main.da97c447.chunk.css",
